@@ -1,4 +1,8 @@
 Ch3::Application.routes.draw do
+  get "sanfrancisco/paloalto"
+
+  get "sanfrancisco/sanjose"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
